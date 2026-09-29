@@ -220,4 +220,4 @@ Argus Monitor is offered as a full free version, providing all features and upda
 Take control of your PC's temperature today! Download Argus Monitor for a safe and efficient computing experience.
 
 ---
-**Last updated:** 2026-09-29 17:44:23 UTC
+**Last updated:** 2026-09-29 21:56:14 UTC
